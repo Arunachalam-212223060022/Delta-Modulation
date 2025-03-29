@@ -1,4 +1,4 @@
-##  Delta-Modulation using phyton 
+##  Delta-Modulation using python 
  
 ## AIM
 To perform Delta-Modulation using python 
